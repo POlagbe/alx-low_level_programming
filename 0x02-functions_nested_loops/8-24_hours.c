@@ -3,7 +3,7 @@
 /**
  * main - This program prints every minute of the day of Jack Bauer
  *
- * jack_bauer -function prints 24hrs time
+ * jack_bauer - This function prints 24hrs time
  *
  * Return: 0 always
  */
